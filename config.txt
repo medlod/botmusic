@@ -3,4 +3,4 @@ prefix= .
 game=.play I TwoM ROLEPLAY 
 stayinchannel=true
 songinstatus=true
-token=NjM2NzE1MTk2MDY4NTI4MTQz.XitFdQ.g0z5BEzrLSGM4Ed2SmZuH-uQdQs
+token=NjM2NzE1MTk2MDY4NTI4MTQz.XjTG-A.XIEfMQoeGxckBlpOfJfoLvp6RNE
