@@ -1,6 +1,6 @@
-owner=354690959272837130
+owner=You id 
 prefix= -
-game=Roshan
+game= -play I Created by Med 
 stayinchannel=true
 songinstatus=true
-token= NjM2NzY3MzE1NDYyOTc5NjA0.XmmbPw.Bijj8MiUAuiWh0BDqMQwAgYpdUQ
+token= Your bot token here 
