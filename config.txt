@@ -1,5 +1,5 @@
 owner=354690959272837130
-prefix= !
+prefix= -
 game=Roshan
 stayinchannel=true
 songinstatus=true
